@@ -2,6 +2,9 @@
 How to verify that the data stored in the cloud are real and have not been modified by the server or by a malicious user?<br>
 Using **Authenticated Data Structures**! 
 
+<br>
+
+## Authenticated Linked List
 
 `authenticated_list.py` uses _authenticated list_.<br>
 An authenticated list is a linked list.
@@ -17,3 +20,9 @@ The client locally saves the value of _h_ while the authenticated data structure
   <img src="https://github.com/mariocuomo/Authenticated-Data-Structure/blob/main/example.png" width="800"/>
 </div>
 
+
+<br>
+
+## Merkle Hash Tree (MHT)
+
+_work in progress ..._ ⛈️
