@@ -139,7 +139,7 @@ print("**********************************************************")
 value_to_store[0]=86
 l_list.head.data=str(value_to_store[0])
 for node in l_list:
-    stringToEncode = node.data
+    stringToEncode = str(node.data)
     if node.prev!=None:
         stringToEncode = node.prev.h + stringToEncode
 
